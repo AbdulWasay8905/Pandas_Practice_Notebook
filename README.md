@@ -37,12 +37,12 @@ Through this repo, I am practicing:
 
 ---
 
-## 📌 Author
+## 👤 Author
 
-👤 Abdul Wasay
-📧 [Wasay8892@gmail.com]
-🔗 LinkedIn : www.linkedin.com/in/abdul-wasay-2a602329b
- | GitHub : 
+**Abdul Wasay**  
+📫 Connect with me:  
+- GitHub: [github.com/your-abdulwasay8905](https://github.com/your-username) 
+- LinkedIn: [linkedin.com/in/abdul-wasay-2a602329b](https://linkedin.com/in/your-link)  
 
 ## ⭐ Contribution
 
